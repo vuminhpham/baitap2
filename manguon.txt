@@ -1,0 +1,96 @@
+{
+  "Loại hệ điều hành": "Windows_NT",
+  "Nền tảng": "win32",
+  "RAM": 8358518784,
+  "USEDRAM": 7509430272,
+  "CPU": [
+    {
+      "model": "Intel(R) Core(TM) i5-1135G7 thế hệ thứ 11 @ 2,40GHz",
+      "tốc độ": 2419,
+      "lần": {
+        "người dùng": 16502015,
+        "tốt": 0,
+        "hệ thống": 10608671,
+        "nhàn rỗi": 195760343,
+        "irq": 1398687
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1135G7 thế hệ thứ 11 @ 2,40GHz",
+      "tốc độ": 2419,
+      "lần": {
+        "người dùng": 17409390,
+        "tốt": 0,
+        "hệ thống": 5600890,
+        "nhàn rỗi": 199860562,
+        "irq": 281531
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1135G7 thế hệ thứ 11 @ 2,40GHz",
+      "tốc độ": 2419,
+      "lần": {
+        "người dùng": 18695171,
+        "tốt": 0,
+        "hệ thống": 6284062,
+        "nhàn rỗi": 197891625,
+        "irq": 160890
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1135G7 thế hệ thứ 11 @ 2,40GHz",
+      "tốc độ": 2419,
+      "lần": {
+        "người dùng": 15545296,
+        "tốt": 0,
+        "hệ thống": 4666437,
+        "nhàn rỗi": 202659125,
+        "irq": 106765
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1135G7 thế hệ thứ 11 @ 2,40GHz",
+      "tốc độ": 2419,
+      "lần": {
+        "người dùng": 14418625,
+        "tốt": 0,
+        "hệ thống": 6209796,
+        "nhàn rỗi": 202242421,
+        "irq": 171812
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1135G7 thế hệ thứ 11 @ 2,40GHz",
+      "tốc độ": 2419,
+      "lần": {
+        "người dùng": 12512640,
+        "tốt": 0,
+        "hệ thống": 5090015,
+        "nhàn rỗi": 205268156,
+        "irq": 127156
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1135G7 thế hệ thứ 11 @ 2,40GHz",
+      "tốc độ": 2419,
+      "lần": {
+        "người dùng": 14262671,
+        "tốt": 0,
+        "hệ thống": 5754000,
+        "nhàn rỗi": 202854203,
+        "irq": 132890
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1135G7 thế hệ thứ 11 @ 2,40GHz",
+      "tốc độ": 2419,
+      "lần": {
+        "người dùng": 13933046,
+        "tốt": 0,
+        "hệ thống": 4865187,
+        "nhàn rỗi": 204072671,
+        "irq": 97609
+      }
+    }
+  ]
+}
